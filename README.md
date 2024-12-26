@@ -1,12 +1,39 @@
-# 👋 Hi there! I'm **Kartik Patil**
+### Hi there 👋
 
+# Kartik Patil
+
+## 🚀 **About Me**  
+
+**  Growing in programming **
+
+I'm a Computer Science student at K.L.E Technological University with a passion for software development, machine learning, and blockchain technologies. I enjoy solving complex coding challenges and leveraging emerging technologies to create innovative solutions.
+
+
+---
+### :paperclip:	Languages
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="LaTeX" width="70px" style="padding-right:10px;" src="https://democracyobserver.org/images/latex-logo.png"/>
+
+<br>
+
+---
+### :chart_with_upwards_trend: Stats 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Flor125&theme=material&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>](https://github.com/Flor125/Flor125)
 🎓 **Computer Science Student**  
 💡 **Passionate about Emerging Technologies** | 🖥️ **Creative Coder** | 📚 **Lifelong Learner**
 
 ---
 
-## 🚀 **About Me**  
-I'm a Computer Science student at K.L.E Technological University with a passion for software development, machine learning, and blockchain technologies. I enjoy solving complex coding challenges and leveraging emerging technologies to create innovative solutions.
+
 
 ---
 
