@@ -14,7 +14,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ---
 ### :chart_with_upwards_trend: Stats 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kartik-Patil&theme=material&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)" alt="GitHub Streak" /></a>
 
 ---
 🎓 **Computer Science Student**  
@@ -45,7 +45,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ### Frameworks & Tools  
 - **Docker** | **Kubernetes** | **Spring Boot**
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)
+
 
 ### Domains  
 - Full Stack Development  
