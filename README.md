@@ -78,28 +78,52 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 - 🖧 **Networking Course Completion** – Cisco Networking Academy  
   - Skills: Networking  
 - 🎓 **Java Full Stack Development** – Apponix Technologies  
-  - Skills: HTML5, CSS, Node.js, AngularJS, JavaServer Pages (JSP)  
+  - Skills: HTML5, CSS, Node.js, AngularJS, JavaServer Pages (JSP)
+- 🎓 **Access all my certifications in the link here: https://drive.google.com/drive/folders/1JO9arKcYY4z_RY48WH5_Tr7FRd6EIU8M?usp=drive_link
 
 ---
 
 ## 📂 **Projects**  
 
 ### 🎨 [Image Inpainting using YOLOv8 and LaMa Model](https://ieeexplore.ieee.org/document/10593536/)  
-- Developed an AI-based model for image restoration.  
+-  Presented in IEEE sponsered 5th INTERNATIONAL CONFERENCE OF EMERGING TECHNOLOGIES 2024- Jain College of Engineering,  BELGAUM,KARNATAKA, INDIA
+- Developed an AI-based model for image restoration.
 - Accepted at **ICICV Jaipur**, **INCET Belgaum**, and **CML Sikkim** conferences.
 
-### 🩺 **Doctor-Patient Portal**  
+### 🩺 [Doctor-Patient Portal](https://github.com/Kartik-Patil/Doctor-Patient-Portal)  
 - A Java Full Stack web application for enhancing healthcare communication.  
 - Features: Appointment scheduling, medical records management, and secure messaging.
 
-### 🎲 **Decentralized Crypto Casino**  
+### 🎲 [Decentralized Crypto Casino](https://github.com/Kartik-Patil/Crypto-Casino)
 - Created a blockchain-based casino with Ethereum integration.  
 - Features: NFT-based game assets and decentralized gambling mechanics.
 
-### 🩻 **Deep Learning for Thoracic Disease Diagnosis**  
-- Built a DenseNet121-based CNN model for detecting thoracic diseases from X-rays.  
+### 🩻 [Deep Learning for Thoracic Disease Diagnosis](NIH-Chest-X-rays-thoracic-disease-Classification) 
+- Presented in IEEE sponsered 8th IEEE CSITSS 2024 – RV College of Engineering,BENGALURU,KARNATAKA,INDIA
+- Built a DenseNet121-based CNN model for detecting thoracic diseases from X-rays.
 - Focused on interpretability and performance optimization.
 
+### 🌍 [NGO-Philanthropy Platform](https://github.com/Kartik-Patil/NGO-Philantropy-PAC-Hack)  
+- Developed a web platform connecting **NGOs** and **philanthropists** for **donations** and **charitable activities**.  
+- Features: NGO and philanthropist registration, donation portal, matching system, and transparency in charity tracking.
+
+### 🦠 [Cervical Cancer Image Classification](https://github.com/Kartik-Patil/Cervical-Cancer-Image-Classification)  
+- A deep learning project aimed at improving **Squamous Cell Carcinoma (SCC)** classification using advanced **ensemble techniques**.  
+- Utilizes the **Herlev dataset** (917 images) with multi-cell and single-cell samples.  
+- **Transfer learning** applied with pre-trained models such as **ResNet50V2**, **ResNet101**, **DenseNet121**, **DenseNet169**, **XceptionNet**, and **InceptionResNetV2**.  
+- **Ensemble technique** boosts model accuracy to **97%+**, making it a reliable tool for early **cervical cancer detection**.
+
+
+### 🤖 [AutoML-MLOps Platform Prototype](https://github.com/Hack2Future-IIIT-Dharwad/Visionary_Innovators)  
+- Developed a scalable **AutoML-MLOps platform** that automates the machine learning lifecycle, simplifying data preprocessing, model training, and deployment.  
+- **Key Features**:  
+  - **Automated Data Preprocessing**: Data cleaning, feature engineering, and validation.  
+  - **AutoML Capabilities**: Automated model selection, hyperparameter optimization, and model evaluation.  
+  - **User-Friendly Interface**: Provides real-time insights and easy data management.  
+  - **Core Components**:  
+    - **Data Processing Module**: Handles data ingestion and preprocessing.  
+    - **AutoML Engine**: Leverages **h2o.ai** for automated modeling and hyperparameter tuning.  
+    - **Web Interface**: Displays model metrics and facilitates data upload.
 ---
 
 ## 🎉 **Events Attended**  
