@@ -100,16 +100,18 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 - Focused on interpretability and performance optimization.
 
 ### 🌍 [NGO-Philanthropy Platform](https://github.com/Kartik-Patil/NGO-Philantropy-PAC-Hack)  
+- **This website was built in PacHack National Level Hackathon hosted by Presidency University Bangalore**
 - Developed a web platform connecting **NGOs** and **philanthropists** for **donations** and **charitable activities**.  
 - Features: NGO and philanthropist registration, donation portal, matching system, and transparency in charity tracking.
 
 ### 🦠 [Cervical Cancer Image Classification](https://github.com/Kartik-Patil/Cervical-Cancer-Image-Classification)  
 - A deep learning project aimed at improving **Squamous Cell Carcinoma (SCC)** classification using advanced **ensemble techniques**.  
 - Utilizes the **Herlev dataset** (917 images) with multi-cell and single-cell samples.  
-- **Transfer learning** applied with pre-trained models such as **ResNet50V2**, **ResNet101**, **DenseNet121**, **DenseNet169**, **XceptionNet**, and **InceptionResNetV2**.  
+- **Transfer learning** applied with  models such as **ResNet50V2**, **DenseNet121**, **DenseNet169**, **XceptionNet**, and **InceptionResNetV2**.  
 - **Ensemble technique** boosts model accuracy to **97%+**, making it a reliable tool for early **cervical cancer detection**.
 
 ### 🤖 [AutoML-MLOps Platform Prototype](https://github.com/Hack2Future-IIIT-Dharwad/Visionary_Innovators)  
+-  **This website was built in Hack2Future National Level Hackathon hosted by IIIT Dharwad**
 - Developed a scalable **AutoML-MLOps platform** that automates the machine learning lifecycle, simplifying data preprocessing, model training, and deployment.  
 - **Key Features**:  
   - **Automated Data Preprocessing**: Data cleaning, feature engineering, and validation.  
