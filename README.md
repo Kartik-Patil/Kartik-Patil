@@ -10,6 +10,24 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 
 ---
+
+
+---
+### :chart_with_upwards_trend: Stats 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kartik-Patil&theme=material&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
+
+---
+🎓 **Computer Science Student**  
+💡 **Passionate about Emerging Technologies** | 🖥️ **Creative Coder** | 📚 **Lifelong Learner**
+
+---
+
+
+
+---
+
+## 🛠️ **Skills**  
+### Programming Languages  
 ### :paperclip:	Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
@@ -25,25 +43,9 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 <br>
 
----
-### :chart_with_upwards_trend: Stats 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kartik-Patil&theme=material&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>]
-🎓 **Computer Science Student**  
-💡 **Passionate about Emerging Technologies** | 🖥️ **Creative Coder** | 📚 **Lifelong Learner**
-
----
-
-
-
----
-
-## 🛠️ **Skills**  
-### Programming Languages  
-- **C** | **C++** | **Java** | **Python** | **JavaScript**  
-- **HTML** | **CSS**
-
 ### Frameworks & Tools  
 - **Docker** | **Kubernetes** | **Spring Boot**
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)
 
 ### Domains  
 - Full Stack Development  
