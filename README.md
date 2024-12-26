@@ -49,7 +49,10 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 <br>
 <br>
---
+
+<br>
+<br>
+---
 ### Domains  
 - Full Stack Development  
 - Blockchain Development  
