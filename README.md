@@ -1,16 +1,13 @@
-### Hi there 👋
-
 # Kartik Patil
 
 ## 🚀 **About Me**  
 
-**Growing in programming**
-
+**Growing in programming**  
 I'm a Computer Science student at K.L.E Technological University with a passion for software development, machine learning, and blockchain technologies. I enjoy solving complex coding challenges and leveraging emerging technologies to create innovative solutions.
 
 ---
 
-### :chart_with_upwards_trend: Stats 
+### :chart_with_upwards_trend: **Stats**  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)
 
 ---
@@ -23,7 +20,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 ## 🛠️ **Skills**  
 
 ### Programming Languages  
-### :paperclip: Languages  
+#### :paperclip: Languages  
 
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
 <img align="left" alt="C" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -39,7 +36,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <br>
 
 ### Frameworks & Tools  
-### :paperclip: Frameworks & Tools  
+#### :paperclip: Frameworks & Tools  
 
 <img align="left" alt="Docker" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
@@ -49,7 +46,6 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <img align="left" alt="Hadoop" width="70px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"/>  
 <img align="left" alt="Hive" width="70px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"/>  
 <img align="left" alt="Spark" width="70px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"/>
-
 
 <br>
 <br>
@@ -78,29 +74,29 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 - 🖧 **Networking Course Completion** – Cisco Networking Academy  
   - Skills: Networking  
 - 🎓 **Java Full Stack Development** – Apponix Technologies  
-  - Skills: HTML5, CSS, Node.js, AngularJS, JavaServer Pages (JSP)
-- 🎓 **Access all my certifications in the link here: https://drive.google.com/drive/folders/1JO9arKcYY4z_RY48WH5_Tr7FRd6EIU8M?usp=drive_link
+  - Skills: HTML5, CSS, Node.js, AngularJS, JavaServer Pages (JSP)  
+- 🎓 **Access all my certifications in the link here**: [Certifications](https://drive.google.com/drive/folders/1JO9arKcYY4z_RY48WH5_Tr7FRd6EIU8M?usp=drive_link)
 
 ---
 
 ## 📂 **Projects**  
 
 ### 🎨 [Image Inpainting using YOLOv8 and LaMa Model](https://ieeexplore.ieee.org/document/10593536/)  
--  Presented in IEEE sponsered 5th INTERNATIONAL CONFERENCE OF EMERGING TECHNOLOGIES 2024- Jain College of Engineering,  BELGAUM,KARNATAKA, INDIA
-- Developed an AI-based model for image restoration.
+- Presented at **IEEE sponsored 5th INTERNATIONAL CONFERENCE OF EMERGING TECHNOLOGIES 2024** – Jain College of Engineering, Belgaum, Karnataka, India  
+- Developed an AI-based model for image restoration.  
 - Accepted at **ICICV Jaipur**, **INCET Belgaum**, and **CML Sikkim** conferences.
 
 ### 🩺 [Doctor-Patient Portal](https://github.com/Kartik-Patil/Doctor-Patient-Portal)  
 - A Java Full Stack web application for enhancing healthcare communication.  
 - Features: Appointment scheduling, medical records management, and secure messaging.
 
-### 🎲 [Decentralized Crypto Casino](https://github.com/Kartik-Patil/Crypto-Casino)
+### 🎲 [Decentralized Crypto Casino](https://github.com/Kartik-Patil/Crypto-Casino)  
 - Created a blockchain-based casino with Ethereum integration.  
 - Features: NFT-based game assets and decentralized gambling mechanics.
 
-### 🩻 [Deep Learning for Thoracic Disease Diagnosis](NIH-Chest-X-rays-thoracic-disease-Classification) 
-- Presented in IEEE sponsered 8th IEEE CSITSS 2024 – RV College of Engineering,BENGALURU,KARNATAKA,INDIA
-- Built a DenseNet121-based CNN model for detecting thoracic diseases from X-rays.
+### 🩻 [Deep Learning for Thoracic Disease Diagnosis](https://github.com/Kartik-Patil/NIH-Chest-X-rays-thoracic-disease-Classification)  
+- Presented at **IEEE sponsored 8th IEEE CSITSS 2024** – RV College of Engineering, Bengaluru, Karnataka, India  
+- Built a DenseNet121-based CNN model for detecting thoracic diseases from X-rays.  
 - Focused on interpretability and performance optimization.
 
 ### 🌍 [NGO-Philanthropy Platform](https://github.com/Kartik-Patil/NGO-Philantropy-PAC-Hack)  
@@ -113,7 +109,6 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 - **Transfer learning** applied with pre-trained models such as **ResNet50V2**, **ResNet101**, **DenseNet121**, **DenseNet169**, **XceptionNet**, and **InceptionResNetV2**.  
 - **Ensemble technique** boosts model accuracy to **97%+**, making it a reliable tool for early **cervical cancer detection**.
 
-
 ### 🤖 [AutoML-MLOps Platform Prototype](https://github.com/Hack2Future-IIIT-Dharwad/Visionary_Innovators)  
 - Developed a scalable **AutoML-MLOps platform** that automates the machine learning lifecycle, simplifying data preprocessing, model training, and deployment.  
 - **Key Features**:  
@@ -124,6 +119,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
     - **Data Processing Module**: Handles data ingestion and preprocessing.  
     - **AutoML Engine**: Leverages **h2o.ai** for automated modeling and hyperparameter tuning.  
     - **Web Interface**: Displays model metrics and facilitates data upload.
+
 ---
 
 ## 🎉 **Events Attended**  
