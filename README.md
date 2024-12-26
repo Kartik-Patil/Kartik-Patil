@@ -23,7 +23,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 ## 🛠️ **Skills**  
 
 ### Programming Languages  
-### :paperclip: Languages
+ Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -38,12 +38,16 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <br>
 <br>
 ### Frameworks & Tools  
+### :paperclip:Frameworks & Tools  
 <img align="left" alt="Docker" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="Spring Boot" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />  
+<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
+
 <br>
 <br>
----
+
 
 ### Domains  
 - Full Stack Development  
