@@ -46,6 +46,9 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <img align="left" alt="Spring Boot" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
 <img align="left" alt="React" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>  
 <img align="left" alt="MongoDB" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>  
+<img align="left" alt="Hadoop" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original-wordmark.svg"/>  
+<img align="left" alt="Hive" width="70px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"/>  
+<img align="left" alt="Spark" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"/>
 
 <br>
 <br>
