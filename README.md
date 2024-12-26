@@ -68,6 +68,14 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ---
 
+## 🎉 **Events Attended**  
+- 🏆 **PacHack National Level Hackathon** – Presidency University Bangalore  
+- 🎓 **Certificate of Presentation at the 8th IEEE CSITSS 2024** – RV College of Engineering  
+- 🏆 **Hack2Future 32hr Hackathon** – IIIT Dharwad  
+- 🎓 **Certificate of Presentation at the 5th IEEE INCET 2024** – JAIN College of Engineering  
+
+---
+
 ## 📫 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/-Kartik%20Patil-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kartikpatil08)  
 [![GitHub](https://img.shields.io/badge/-Kartik--Patil-black?style=flat&logo=github)](https://github.com/Kartik-Patil)  
