@@ -44,12 +44,14 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="Spring Boot" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
 
-
+---
 
 ### Frameworks & Tools  
-- **Docker** | **Kubernetes** | **Spring Boot**
+<img align="left" alt="Docker" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="Spring Boot" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
 
-
+---
 ### Domains  
 - Full Stack Development  
 - Blockchain Development  
