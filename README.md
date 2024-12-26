@@ -4,29 +4,26 @@
 
 ## 🚀 **About Me**  
 
-**  Growing in programming **
+**Growing in programming**
 
 I'm a Computer Science student at K.L.E Technological University with a passion for software development, machine learning, and blockchain technologies. I enjoy solving complex coding challenges and leveraging emerging technologies to create innovative solutions.
 
-
 ---
 
-
----
 ### :chart_with_upwards_trend: Stats 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)
 
 ---
+
 🎓 **Computer Science Student**  
 💡 **Passionate about Emerging Technologies** | 🖥️ **Creative Coder** | 📚 **Lifelong Learner**
 
 ---
 
-
-
 ## 🛠️ **Skills**  
+
 ### Programming Languages  
-### :paperclip:	Languages
+### :paperclip: Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -39,20 +36,13 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="LaTeX" width="70px" style="padding-right:10px;" src="https://democracyobserver.org/images/latex-logo.png"/>
 
-
-
-
 ### Frameworks & Tools  
 <img align="left" alt="Docker" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="Spring Boot" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
 
-
-
-
-
-
 ---
+
 ### Domains  
 - Full Stack Development  
 - Blockchain Development  
@@ -77,9 +67,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 - 🖧 **Networking Course Completion** – Cisco Networking Academy  
   - Skills: Networking  
 - 🎓 **Java Full Stack Development** – Apponix Technologies  
-  
   - Skills: HTML5, CSS, Node.js, AngularJS, JavaServer Pages (JSP)  
- 
 
 ---
 
