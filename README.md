@@ -26,9 +26,25 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 ---
 
 ## 🌟 **Certifications**  
-- 🎓 **Java Full Stack Development** – Apponix Academy  
-- 🖧 **Networking Basics** – Cisco Networking Academy  
-- 🐳 **Kubernetes + Docker** – DevOps Guru  
+- 🎓 **Certificate of Presentation at the 8th IEEE CSITSS 2024** – RV College of Engineering  
+  - Skills: Artificial Intelligence (AI), Machine Learning  
+- 🏆 **Hack2Future 32hr Hackathon** – IIIT Dharwad  
+  - Skills: Artificial Intelligence (AI), Django, Flask, Machine Learning, Python  
+- 🏆 **TATA Crucible Campus Quiz 2024** – Tata Crucible  
+- 🏆 **PacHack National Level Hackathon** – Presidency University Bangalore  
+  - Skills: React.js, JavaScript, Java, MongoDB  
+- ☁️ **AWS Educate Introduction to Cloud** – Amazon Web Services (AWS)  
+  - Skills: Cloud Computing, Cloud Applications  
+- 🎓 **Certificate of Presentation at the 5th IEEE INCET 2024** – JAIN College of Engineering  
+  - Skills: Artificial Intelligence (AI), Machine Learning  
+- 🐳 **Kubernetes Course from DevOps Guru** – Infosys Springboard  
+  - Skills: Docker, Kubernetes  
+- 🖧 **Networking Course Completion** – Cisco Networking Academy  
+  - Skills: Networking  
+- 🎓 **Java Full Stack Development** – Apponix Technologies  
+  
+  - Skills: HTML5, CSS, Node.js, AngularJS, JavaServer Pages (JSP)  
+ 
 
 ---
 
