@@ -14,7 +14,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ---
 ### :chart_with_upwards_trend: Stats 
-<a href="https://git.io/streak-stats"><img src="![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)" alt="GitHub Streak" /></a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)
 
 ---
 🎓 **Computer Science Student**  
