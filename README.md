@@ -9,7 +9,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ### :chart_with_upwards_trend: **Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartik-Patil&show_icons=true&theme=radical)
+
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Patil&layout=compact&theme=radical)
 <br>
