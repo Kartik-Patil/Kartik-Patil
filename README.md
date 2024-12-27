@@ -14,6 +14,8 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Patil&layout=compact&theme=radical)
 <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Patil&theme=radical)
+
 ---
 
 🎓 **Computer Science Student**  
