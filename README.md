@@ -8,13 +8,14 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 ---
 
 ### :chart_with_upwards_trend: **Stats**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)
-<br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartik-Patil&show_icons=true&theme=radical)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Patil&layout=compact&theme=radical)
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Patil&theme=radical)
+<br>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kartik-Patil&repo=YourRepoName&theme=radical)](https://github.com/Kartik-Patil/YourRepoName)
 
 ---
 
