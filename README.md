@@ -7,6 +7,11 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ---
 
+🎓 **Computer Science Student**  
+💡 **Passionate about Emerging Technologies** | 🖥️ **Creative Coder** | 📚 **Lifelong Learner**
+
+---
+
 ### :chart_with_upwards_trend: **Stats**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartik-Patil&show_icons=true&theme=radical)
@@ -15,13 +20,10 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Patil&theme=radical)
 <br>
+![Machine Learning](assets/ml.jpg)
+![Artificial Intelligence](assets/ai.jpeg)
 
----
 
-🎓 **Computer Science Student**  
-💡 **Passionate about Emerging Technologies** | 🖥️ **Creative Coder** | 📚 **Lifelong Learner**
-
----
 
 ## 🛠️ **Skills**  
 
