@@ -15,7 +15,6 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Patil&theme=radical)
 <br>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kartik-Patil&repo=YourRepoName&theme=radical)](https://github.com/Kartik-Patil/YourRepoName)
 
 ---
 
