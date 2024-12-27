@@ -20,10 +20,6 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Patil&theme=radical)
 
-<div style="display: flex; justify-content: flex-end;">
-  <img src="assets/ml.jpg" alt="Machine Learning" width="300" style="margin-right: 10px;" />
-  <img src="assets/ai.jpeg" alt="Artificial Intelligence" width="300" />
-</div>
 
 
 
