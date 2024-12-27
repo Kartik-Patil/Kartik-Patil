@@ -19,11 +19,11 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Patil&layout=compact&theme=radical)
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Patil&theme=radical)
-<br>
+
 <div style="text-align: right;">
   <img src="assets/ml.jpg" alt="Machine Learning" width="300" />
   <img src="assets/ai.jpeg" alt="Artificial Intelligence" width="300" />
-</div>
+
 
 
 
