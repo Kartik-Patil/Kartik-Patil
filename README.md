@@ -9,6 +9,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ### :chart_with_upwards_trend: **Stats**  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kartik-Patil&theme=radical)
+[![Customized Contributor Stats](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepoName&theme=dark)](https://github.com/YourUsername/YourRepoName)
 
 ---
 
