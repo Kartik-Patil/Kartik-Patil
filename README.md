@@ -3,8 +3,7 @@
 ## 🚀 **About Me**  
 
 **Growing in programming**  
-I'm a Computer Science student at K.L.E Technological University with a passion for software development, machine learning, and blockchain technologies. I enjoy solving complex coding challenges and leveraging emerging technologies to create innovative solutions.
-
+Full Stack Developer with 1 year of professional experience in designing, developing, and maintaining scalable web applications. Proficient in Java, Spring Boot, React, Node.js, and MySQL with strong expertise in building RESTful APIs, responsive user interfaces, and secure backend systems. Experienced in working with Git-based workflows, Dockerized applications, and cloud-hosted environments. Demonstrated ability to collaborate in agile teams, optimize application performance, and deliver high-quality, production-ready solutions. Passionate about continuous improvement in full-stack architecture, DevOps practices, and modern software engineering. 
 ---
 
 🎓 **Computer Science Student**  
@@ -14,11 +13,11 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ### :chart_with_upwards_trend: **Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartik-Patil&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saanjalibelgavi&show_icons=true&theme=radical)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Patil&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saanjalibelgavi&layout=compact&theme=radical)
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik-Patil&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saanjalibelgavi&theme=radical)
 
 
 
@@ -69,25 +68,7 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 
 ---
 
-## 🌟 **Certifications**  
-- 🎓 **Certificate of Presentation at the 8th IEEE CSITSS 2024** – RV College of Engineering  
-  - Skills: Artificial Intelligence (AI), Machine Learning  
-- 🏆 **Hack2Future 32hr Hackathon** – IIIT Dharwad  
-  - Skills: Artificial Intelligence (AI), Django, Flask, Machine Learning, Python  
-- 🏆 **TATA Crucible Campus Quiz 2024** – Tata Crucible  
-- 🏆 **PacHack National Level Hackathon** – Presidency University Bangalore  
-  - Skills: React.js, JavaScript, Java, MongoDB  
-- ☁️ **AWS Educate Introduction to Cloud** – Amazon Web Services (AWS)  
-  - Skills: Cloud Computing, Cloud Applications  
-- 🎓 **Certificate of Presentation at the 5th IEEE INCET 2024** – JAIN College of Engineering  
-  - Skills: Artificial Intelligence (AI), Machine Learning  
-- 🐳 **Kubernetes Course from DevOps Guru** – Infosys Springboard  
-  - Skills: Docker, Kubernetes  
-- 🖧 **Networking Course Completion** – Cisco Networking Academy  
-  - Skills: Networking  
-- 🎓 **Java Full Stack Development** – Apponix Technologies  
-  - Skills: HTML5, CSS, Node.js, AngularJS, JavaServer Pages (JSP)  
-- 🎓 **Access all my certifications in the link here**: [Certifications](https://drive.google.com/drive/folders/1JO9arKcYY4z_RY48WH5_Tr7FRd6EIU8M?usp=drive_link)
+
 
 ---
 
@@ -145,10 +126,9 @@ I'm a Computer Science student at K.L.E Technological University with a passion 
 ---
 
 ## 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/-Kartik%20Patil-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kartikpatil08)  
-[![GitHub](https://img.shields.io/badge/-Kartik--Patil-black?style=flat&logo=github)](https://github.com/Kartik-Patil)  
-[![Instagram](https://img.shields.io/badge/-@btwitskaaru-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/btwitskaaru)  
-[![Email](https://img.shields.io/badge/-kartikpatilhrg@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kartikpatilhrg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Kartik%20Patil-blue?style=flat&logo=Linkedin&logoColor=white)]()  
+[![GitHub](https://img.shields.io/badge/-Kartik--Patil-black?style=flat&logo=github)](https://github.com/Saanjalibelgavi)  
+[![Email](https://img.shields.io/badge/-kartikpatilhrg@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Saanjalibelgavi@gmail.com)
 
 ---
 
